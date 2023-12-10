@@ -23,6 +23,8 @@
 ## ⚠️ Disclaimer
 This guide is only for the HP 640 G1. I am NOT responsible for any harm you cause to your device. This guide is provided "as-is" and all steps taken are done at your own risk.
 
+> The style of this README are from [EETagent](https://github.com/EETagent/T480-OpenCore-Hackintosh) and [Valnoxy](https://github.com/valnoxy/t480-oc/).
+> The EFI is based on [Shreyas Shriyan](https://github.com/shreyas-shriyan/Hp-Probook-640G1-Hackintosh-OpenCore) EFI.
 
 &nbsp;
 
