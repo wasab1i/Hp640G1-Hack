@@ -138,13 +138,9 @@ After you've finished with the neccesary tweaks, you have to copy the EFI folder
 The bios must be properly configured prior to installing macOS.
 In Security menu, set the following settings:
 
--  `Security > Security Chip`: must be **Disabled**
--  `Memory Protection > Execution Prevention`: must be **Enabled**
--  `Virtualization > Intel Virtualization Technology`: must be **Enabled**
--  `Virtualization > Intel VT-d Feature`: must be **Enabled**
--  `Anti-Theft > Computrace -> Current Setting`: must be **Disabled**
--  `Secure Boot > Secure Boot`: must be **Disabled**
--  `Intel SGX -> Intel SGX Control`: must be **Disabled**
+-  `Intel Virtualization Technology`: must be **Enabled**
+-  `Anti-Theft`: must be **Disabled**
+-  `Secure Boot`: must be **Disabled**
 -  `Device Guard`: must be **Disabled**
 
 In Startup menu, set the following options:
