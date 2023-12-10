@@ -11,11 +11,11 @@
    <br />
    <strong>Version: </strong>0.9
    <br />
-   <a href="https://github.com/valnoxy/Hp640G1-Hack/releases"><strong>Download now »</strong></a>
+   <a href="https://github.com/wasab1i/Hp640G1-Hack/releases"><strong>Download now »</strong></a>
    <br />
-   <a href="https://github.com/valnoxy/Hp640G1-Hack/issues">Report Bug</a>
+   <a href="https://github.com/wasab1i/Hp640G1-Hack/issues">Report Bug</a>
    ·
-   <a href="https://github.com/valnoxy/Hp640G1-Hack/blob/main/CHANGELOG.md">View Changelog</a>
+   <a href="https://github.com/wasab1i/Hp640G1-Hack/blob/main/CHANGELOG.md">View Changelog</a>
   </p>
 </p>
 </br>
