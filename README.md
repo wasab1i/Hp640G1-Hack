@@ -1,6 +1,6 @@
 # HP 640 G1 - OpenCore Configuation
 
-<img align="right" src="[https://github.com/wasab1i/Hp640G1-Hack/assets/103177455/9e89fdf0-a441-4040-9b0b-8a7a7c965a69]" alt="macOS Monterey running on 640 G1" width="425">
+<img align="right" src="https://i.ibb.co/LzY0JW3/Monterey.png" alt="macOS Monterey running on 640 G1" width="425">
 
 [![macOS](https://img.shields.io/badge/macOS-BigSur-brightgreen.svg)](https://developer.apple.com/documentation/macos-release-notes)
 [![macOS](https://img.shields.io/badge/macOS-Monterey-brightgreen.svg)](https://developer.apple.com/documentation/macos-release-notes)
